@@ -1,5 +1,7 @@
 # Basis Decomposition
 
+Official code for *Accelerating Attention with Basis Decomposition* (https://arxiv.org/abs/2510.01718).
+
 ## Installation
 
 Ensure you have the necessary dependencies installed:
